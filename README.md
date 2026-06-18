@@ -4,11 +4,9 @@ Welcome to my **100 Days of Code challenge** repository, where I document my jou
 
 ## About Me
 
-Hi, I'm **Soumya Ranjan Pati**, a **2nd-year Diploma student in Computer Science** at **Synergy Institute of Technology Polytechnic**, located in **Phulnakhara, Bhubaneswar, Odisha, India**.
+Hi, I'm **Soumya Ranjan Pati**, a **2nd-year Diploma student in Computer Science**
 
 This repository is part of my commitment to improving my programming knowledge through consistent daily practice.
-
-Institute Website: [https://www.synergyinstitute.ac.in/](https://www.synergyinstitute.ac.in/)
 
 ## Purpose of This Repository
 

@@ -4,7 +4,7 @@ Welcome to my **100 Days of Code challenge** repository, where I document my jou
 
 ## About Me
 
-Hi, I'm **Soumya Ranjan Pati**, a **2nd-year Diploma student in Computer Science**
+Hi, I'm **Soumya Ranjan Pati**,
 
 This repository is part of my commitment to improving my programming knowledge through consistent daily practice.
 
